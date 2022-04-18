@@ -7,3 +7,7 @@ Compilation of useful information related to Web applications or Web development
 [Tailwind for CSS](https://play.tailwindcss.com/) and [docs](https://tailwindcss.com/docs/)   
 
 
+
+**Troubleshooting**
+
+[Update node js version](https://phoenixnap.com/kb/update-node-js-version)  
