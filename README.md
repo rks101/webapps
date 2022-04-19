@@ -6,6 +6,7 @@ Compilation of useful information related to Web applications or Web development
 
 [Tailwind for CSS](https://play.tailwindcss.com/) and [docs](https://tailwindcss.com/docs/)   
 
+[Sample product/tool page](https://stupendous-lollipop-54242c.netlify.app/) uses html, tailwind, astro, netlify build with github repo    
 
 
 **Troubleshooting**
