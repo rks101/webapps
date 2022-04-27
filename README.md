@@ -11,8 +11,11 @@ Compilation of useful information related to Web applications or Web development
 
 **Troubleshooting**
 
+[Can I use](https://caniuse.com/) to see browser support for front end web technologies. For example look for [querySelector](https://caniuse.com/?search=querySelector)   
+
 [Update node js version](https://phoenixnap.com/kb/update-node-js-version)  
 
-
 [SSR web frameworks](https://simply-how.com/server-side-rendering-web-frameworks), [SSR with React](https://blog.openreplay.com/server-side-rendering-ssr-with-react), another [example](https://frontend.blog/building-an-ssr-framework-using-vite-prisma/)     
+
+[RunJS](https://runjs.app/) a playground for javascript to check syntax and basic testing of the script.   
 
