@@ -20,3 +20,6 @@ Compilation of useful information related to Web applications or Web development
 [RunJS](https://runjs.app/) a playground for javascript to check syntax and basic testing of the script.   
 
 [Codepen](https://codepen.io/pen/) for side-by-side HTML, CSS and Javascript editor window to visualise code for web apps.   
+
+[Browser permissions](https://permission.site/) to simulate how browser asks certain permissions courtesy to [Felt](https://adrifelt.github.io/demos/).   
+
