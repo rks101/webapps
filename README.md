@@ -37,6 +37,12 @@ This repository is a compilation of useful information related to Web applicatio
 
 ----
 
+## Database
+
+[DB Playground to try some queries](https://www.db-fiddle.com/)  
+
+----
+
 ## Troubleshooting 
 
 [Can I use](https://caniuse.com/) to see browser support for front end web technologies. For example look for [querySelector](https://caniuse.com/?search=querySelector)   
@@ -46,12 +52,6 @@ This repository is a compilation of useful information related to Web applicatio
 [SSR web frameworks](https://simply-how.com/server-side-rendering-web-frameworks), [SSR with React](https://blog.openreplay.com/server-side-rendering-ssr-with-react), another [example](https://frontend.blog/building-an-ssr-framework-using-vite-prisma/)     
 
 [Browser permissions](https://permission.site/) to simulate how browser asks certain permissions courtesy to [Felt](https://adrifelt.github.io/demos/).   
-
-----
-
-## Database
-
-[DB Playground to try some queries](https://www.db-fiddle.com/)  
 
 ----
 
