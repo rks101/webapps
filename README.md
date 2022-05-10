@@ -1,15 +1,15 @@
 # webapps
-Compilation of useful information related to Web applications or Web development
+This repository is a compilation of useful information related to Web applications or Web development   
 
 * [webapps](#webapps)
-      * [Know Elements](#know-elements)
-      * [HTML](#html)
-      * [CSS](#css)
-      * [JavaScript](#javascript)
-      * [Troubleshooting](#troubleshooting)
-      * [Database](#database)
-      * [Flavio Copes](#flavio-copes)
-      * [Free Code Camp](#free-code-camp)
+    * [Know Elements](#know-elements)
+    * [HTML](#html)
+    * [CSS](#css)
+    * [JavaScript](#javascript)
+    * [Troubleshooting](#troubleshooting)
+    * [Database](#database)
+    * [Flavio Copes](#flavio-copes)
+    * [Free Code Camp](#free-code-camp)
 
 ## Know Elements 
 
