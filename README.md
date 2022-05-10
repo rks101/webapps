@@ -8,6 +8,7 @@ This repository is a compilation of useful information related to Web applicatio
     * [JavaScript](#javascript) 
     * [Database](#database) 
     * [Troubleshooting](#troubleshooting) 
+    * [Tools](#tools) 
     * [Flavio Copes](#flavio-copes) 
     * [Free Code Camp](#free-code-camp) 
 
@@ -52,6 +53,17 @@ This repository is a compilation of useful information related to Web applicatio
 [SSR web frameworks](https://simply-how.com/server-side-rendering-web-frameworks), [SSR with React](https://blog.openreplay.com/server-side-rendering-ssr-with-react), another [example](https://frontend.blog/building-an-ssr-framework-using-vite-prisma/)     
 
 [Browser permissions](https://permission.site/) to simulate how browser asks certain permissions courtesy to [Felt](https://adrifelt.github.io/demos/).   
+
+----
+
+## Tools 
+
+For web developers, it is important to learn multiple tools like Swiss army knife.   
+
+Some great tools I have come across recently:   
+
+[Astro](https://astro.build/)   
+[Netlify to deploy](https://www.netlify.com/) after pushing code from [github](https://github.com)   
 
 ----
 
