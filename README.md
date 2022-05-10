@@ -63,6 +63,6 @@ This repository is a compilation of useful information related to Web applicatio
 
 ## Free Code Camp
 
-[Quincy Larsen's website](https://www.freecodecamp.org/) and check this out on [Responsive Web Design]9https://www.freecodecamp.org/learn/responsive-web-design/)   
+[Quincy Larsen's website](https://www.freecodecamp.org/) and check this out on [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)   
 
 ----
