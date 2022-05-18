@@ -8,6 +8,7 @@ This repository is a compilation of useful information related to Web applicatio
     * [JavaScript](#javascript) 
     * [Database](#database) 
     * [Troubleshooting](#troubleshooting) 
+    * [Online Editors and Playgrounds](#online-editors-playgrounds) 
     * [Tools](#tools) 
     * [Flavio Copes](#flavio-copes) 
     * [Free Code Camp](#free-code-camp) 
@@ -53,6 +54,27 @@ This repository is a compilation of useful information related to Web applicatio
 [SSR web frameworks](https://simply-how.com/server-side-rendering-web-frameworks), [SSR with React](https://blog.openreplay.com/server-side-rendering-ssr-with-react), another [example](https://frontend.blog/building-an-ssr-framework-using-vite-prisma/)     
 
 [Browser permissions](https://permission.site/) to simulate how browser asks certain permissions courtesy to [Felt](https://adrifelt.github.io/demos/).   
+
+----
+
+## Online Editors Playgrounds 
+
+[Scratch](https://scratch.mit.edu/) - this should be encouraged before any programming   
+
+[Tailwind playground for CSS](https://play.tailwindcss.com/)   
+
+[RunJS playground for JavaScript](https://runjs.app/)   
+
+[CodePen for HTML/CSS/JavaScript](https://codepen.io/pen/)   
+
+[DB-Fiddle playground](https://www.db-fiddle.com/)   
+
+[railway.app for DB in cloud](https://railway.app/)   
+
+[Online GDB](https://www.onlinegdb.com/)   
+
+[awesome online IDEs](https://github.com/styfle/awesome-online-ide)   
+
 
 ----
 
