@@ -46,7 +46,8 @@ This repository is a compilation of useful information related to Web applicatio
 
 ## Database
 
-[DB Playground to try some queries](https://www.db-fiddle.com/)  
+[DB Playground to try some queries](https://www.db-fiddle.com/)   
+[Railway.app](https://railway.app/) - simple to start postgresql/mysql/mongodb instance in cloud in minutes    
 
 ----
 
