@@ -20,6 +20,8 @@ This repository is a compilation of useful information related to Web applicatio
 ----
 
 ## HTML 
+[HTML tutorial on W3Schools](https://www.w3schools.com/html/)   
+[CodePen](https://codepen.io/) and [JSFiddle](https://jsfiddle.net/) online playground for HTML.   
 
 ----
 
