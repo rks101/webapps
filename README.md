@@ -12,7 +12,7 @@ This repository is a compilation of useful information related to Web applicatio
     * [Tools](#tools) 
     * [Flavio Copes](#flavio-copes) 
     * [Free Code Camp](#free-code-camp) 
-    * [Resorces](#resources) 
+    * [Resources](#resources) 
 
 ## Know Elements 
 
