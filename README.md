@@ -12,6 +12,7 @@ This repository is a compilation of useful information related to Web applicatio
     * [Tools](#tools) 
     * [Flavio Copes](#flavio-copes) 
     * [Free Code Camp](#free-code-camp) 
+    * [Resorces](#resources) 
 
 ## Know Elements 
 
@@ -108,5 +109,12 @@ Some great tools I have come across recently:
 ## Free Code Camp
 
 [Quincy Larsen's website](https://www.freecodecamp.org/) and check this out on [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)   
+
+----
+
+## Resources 
+
+[The Missing Link - Web development and programming](https://milnepublishing.geneseo.edu/themissinglink/)    
+
 
 ----
