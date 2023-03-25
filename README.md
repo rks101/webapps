@@ -66,6 +66,14 @@ This repository is a compilation of useful information related to Web applicatio
 
 ----
 
+## Security  
+
+Pay attention to security aspects while you develop portals. This should not be a complete after-thought or left to other teams. Utilize free tools and websites for ONINT. These steps could improve ranking of your websites/portals.     
+
+Pay attention to HTTP response headers, TLS certificates (X.509), (vulnerable) libraries used, consider VAPT, etc.    
+
+----
+
 ## Online Editors Playgrounds 
 
 [Scratch](https://scratch.mit.edu/) - this should be encouraged before any programming   
