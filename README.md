@@ -69,7 +69,7 @@ This repository is a compilation of useful information related to Web applicatio
 
 ## Security  
 
-Pay attention to security aspects while you develop portals. This should not be a complete after-thought or left to other teams. Utilize free tools and websites for ONINT. These steps could improve ranking of your websites/portals.     
+Pay attention to security aspects while you develop portals. This should not be a complete after-thought or left to other teams. Utilize free tools and websites for OSINT or Web Intelligence (WebINT). These steps could improve ranking of your websites/portals.     
 
 Check your website's [HTTP response headers](https://securityheaders.com/), [TLS certificates (X.509)](https://censys.io/cert-hygiene-and-website-availability/), (vulnerable) libraries used, consider VAPT, etc.    
 
