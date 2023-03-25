@@ -130,5 +130,5 @@ Some great tools I have come across recently:
 
 ## Examples  
 
-[Layoffs.fyi](layoffs.fyi) - see the airtable in action    
+[Layoffs.fyi](https://layoffs.fyi) - see the airtable in action    
 
