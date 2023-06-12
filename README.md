@@ -63,6 +63,9 @@ It has become imperative for developers to understand and design APIs to connect
 
 Here is an online book on [API-first world](https://api-first-world.com/) to emphasize on API-first initiatives to produce and consume software and services. The way we consume APIs for bank payment gateways, online payments (UPI, stripe, etc.), user messaging (SMS, Telegram, WhatsApp, etc.), for large software to survive with rapid changes in technologies, designers and developers should pay attention to API-first approach if the software/service is online.    
 
+[OpenAPI specification for RESTful APIs](https://swagger.io/resources/open-api/)    
+
+
 ----
 
 ## Troubleshooting 
