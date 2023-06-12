@@ -7,6 +7,7 @@ This repository is a compilation of useful information related to Web applicatio
     * [CSS](#css) 
     * [JavaScript](#javascript) 
     * [Database](#database) 
+    * [APIs](#apis)  
     * [Troubleshooting](#troubleshooting) 
     * [Security](#security) 
     * [Online Editors and Playgrounds](#online-editors-playgrounds) 
@@ -53,6 +54,14 @@ This repository is a compilation of useful information related to Web applicatio
 
 [DB Playground to try some queries](https://www.db-fiddle.com/)   
 [Railway.app](https://railway.app/) - simple to start postgresql/mysql/mongodb instance in cloud in minutes    
+
+----
+
+## APIs
+
+It has become imperative for developers to understand and design APIs to connect or integrate with so many other software or services.    
+
+Here is an online book on [API-first world](https://api-first-world.com/) to emphasize on API-first initiatives to produce and consume software and services. The way we consume APIs for bank payment gateways, online payments (UPI, stripe, etc.), user messaging (SMS, Telegram, WhatsApp, etc.), for large software to survive with rapid changes in technologies, designers and developers should pay attention to API-first approach if the software/service is online.    
 
 ----
 
