@@ -14,7 +14,8 @@ This repository is a compilation of useful information related to Web applicatio
     * [Tools](#tools) 
     * [Flavio Copes](#flavio-copes) 
     * [Free Code Camp](#free-code-camp) 
-    * [Resources](#resources) 
+    * [Resources](#resources)
+    * [Cool websites and apps](#cool-websites-and-apps) 
 
 ## Know Elements 
 
@@ -142,7 +143,8 @@ Some great tools I have come across recently:
 
 ----
 
-## Examples  
+## Cool Websites and Apps   
 
 [Layoffs.fyi](https://layoffs.fyi) - see the airtable in action    
 
+[Cotton Bee](https://ctnbee.com/blog/en/) - notice the design elements in slider, sidebars, highlight headings on hover, footer, etc.     
