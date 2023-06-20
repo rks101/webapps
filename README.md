@@ -148,3 +148,6 @@ Some great tools I have come across recently:
 [Layoffs.fyi](https://layoffs.fyi) - see the airtable in action    
 
 [Cotton Bee](https://ctnbee.com/blog/en/) - notice the design elements in slider, sidebars, highlight headings on hover, footer, etc.     
+
+[Amazon dogs - liked the template page](https://www.aboutamazon.com/news/workplace/how-much-does-amazon-love-dogs-just-ask-one-of-the-8-000-pups-that-work-here)     
+
