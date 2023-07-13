@@ -145,6 +145,8 @@ Some great tools I have come across recently:
 
 ## Cool Websites and Apps   
 
+[We Present - Plastic Free](https://wepresent.wetransfer.com/stories/manifesto-plastic-free) or [how to publish a book](https://wepresent.wetransfer.com/stories/stuff-they-dont-tell-you-how-to-publish-a-book) - an elegant design with pictures and scroll. Zoom in a picture and play the slide show :)     
+
 [Layoffs.fyi](https://layoffs.fyi) - see the airtable in action    
 
 [Cotton Bee](https://ctnbee.com/blog/en/) - notice the design elements in the slider, sidebars, highlight headings on hover, footer, etc.     
