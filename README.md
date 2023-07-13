@@ -1,5 +1,5 @@
 # webapps
-This repository is a compilation of useful information related to Web applications or Web development   
+This repository is a compilation of useful information related to Web applications or Web development.   
 
 * [webapps](#webapps)
     * [Know Elements](#know-elements) 
@@ -19,7 +19,7 @@ This repository is a compilation of useful information related to Web applicatio
 
 ## Know Elements 
 
-[Understand boxes](https://every-layout.dev/rudiments/boxes/) where everything is a box in a web page. To confirm this, open a web page and then try to inspect the elements of the web page.   
+[Understand boxes](https://every-layout.dev/rudiments/boxes/) where everything is a box on a web page. To confirm this, open a web page and then try to inspect the elements of the web page.   
 
 ----
 
@@ -33,7 +33,7 @@ This repository is a compilation of useful information related to Web applicatio
 
 [Tailwind playground for CSS, try this](https://play.tailwindcss.com/) and [docs](https://tailwindcss.com/docs/)   
 
-[Sample product/tool page](https://stupendous-lollipop-54242c.netlify.app/) uses html, tailwind, astro, netlify build with github repo    
+[Sample product/tool page](https://stupendous-lollipop-54242c.netlify.app/) uses HTML, Tailwind, Astro, Netlify-build, and GitHub repo.    
 
 ----
 
@@ -41,7 +41,7 @@ This repository is a compilation of useful information related to Web applicatio
 
 [RunJS playground for JavaScript](https://runjs.app/) to check syntax and basic testing of the script.   
 
-[Codepen](https://codepen.io/pen/) for side-by-side HTML, CSS and Javascript editor window to visualise code for web apps.   
+[Codepen](https://codepen.io/pen/) for side-by-side HTML, CSS, and Javascript editor windows to visualize code for web apps.   
 
 
 **JavaScript frameworks**
@@ -54,7 +54,7 @@ This repository is a compilation of useful information related to Web applicatio
 ## Database
 
 [DB Playground to try some queries](https://www.db-fiddle.com/)   
-[Railway.app](https://railway.app/) - simple to start postgresql/mysql/mongodb instance in cloud in minutes    
+[Railway.app](https://railway.app/) - simple to start PostgreSQL/MySQL/MongoDB instance in cloud in minutes.    
 
 ----
 
@@ -62,7 +62,7 @@ This repository is a compilation of useful information related to Web applicatio
 
 It has become imperative for developers to understand and design APIs to connect or integrate with so many other software or services.    
 
-Here is an online book on [API-first world](https://api-first-world.com/) to emphasize on API-first initiatives to produce and consume software and services. The way we consume APIs for bank payment gateways, online payments (UPI, stripe, etc.), user messaging (SMS, Telegram, WhatsApp, etc.), for large software to survive with rapid changes in technologies, designers and developers should pay attention to API-first approach if the software/service is online.    
+Here is an online book on [API-first world](https://api-first-world.com/) to emphasize API-first initiatives to produce and consume software and services. The way we consume APIs for bank payment gateways, online payments (UPI, stripe, etc.), and user messaging (SMS, Telegram, WhatsApp, etc.), for large software to survive with rapid changes in technologies, designers, and developers should pay attention to API-first approach if the software/service is online.    
 
 [OpenAPI specification for RESTful APIs](https://swagger.io/resources/open-api/)    
 
@@ -71,19 +71,19 @@ Here is an online book on [API-first world](https://api-first-world.com/) to emp
 
 ## Troubleshooting 
 
-[Can I use](https://caniuse.com/) to see browser support for front end web technologies. For example look for [querySelector](https://caniuse.com/?search=querySelector)   
+[Can I use](https://caniuse.com/) - to see browser support for front-end web technologies. For example, look for [querySelector](https://caniuse.com/?search=querySelector)   
 
 [Update node js version](https://phoenixnap.com/kb/update-node-js-version)  
 
 [SSR web frameworks](https://simply-how.com/server-side-rendering-web-frameworks), [SSR with React](https://blog.openreplay.com/server-side-rendering-ssr-with-react), another [example](https://frontend.blog/building-an-ssr-framework-using-vite-prisma/)     
 
-[Browser permissions](https://permission.site/) to simulate how browser asks certain permissions courtesy to [Felt](https://adrifelt.github.io/demos/).   
+[Browser permissions](https://permission.site/) to simulate how the browser asks certain permissions courtesy to [Felt](https://adrifelt.github.io/demos/).   
 
 ----
 
 ## Security  
 
-Pay attention to security aspects while you develop portals. This should not be a complete after-thought or left to other teams. Utilize free tools and websites for OSINT or Web Intelligence (WebINT). These steps could improve ranking of your websites/portals.     
+Pay attention to security aspects while you develop portals. Security of web applications should not be an afterthought or left to other teams. Utilize free tools and websites for OSINT or Web Intelligence (WebINT). These steps could improve the ranking of your websites/portals.     
 
 Check your website's [HTTP response headers](https://securityheaders.com/), [TLS certificates (X.509)](https://censys.io/cert-hygiene-and-website-availability/), (vulnerable) libraries used, consider VAPT, etc.    
 
@@ -101,7 +101,7 @@ Check your website's [HTTP response headers](https://securityheaders.com/), [TLS
 
 [DB-Fiddle playground](https://www.db-fiddle.com/)   
 
-[railway.app for DB in cloud](https://railway.app/)   
+[railway.app for DB in the cloud](https://railway.app/)   
 
 [Online GDB](https://www.onlinegdb.com/)   
 
@@ -112,7 +112,7 @@ Check your website's [HTTP response headers](https://securityheaders.com/), [TLS
 
 ## Tools 
 
-For web developers, it is important to learn multiple tools like Swiss army knife.   
+For web developers, it is important to learn multiple tools like the Swiss army knife.   
 
 Some great tools I have come across recently:   
 
@@ -147,7 +147,8 @@ Some great tools I have come across recently:
 
 [Layoffs.fyi](https://layoffs.fyi) - see the airtable in action    
 
-[Cotton Bee](https://ctnbee.com/blog/en/) - notice the design elements in slider, sidebars, highlight headings on hover, footer, etc.     
+[Cotton Bee](https://ctnbee.com/blog/en/) - notice the design elements in the slider, sidebars, highlight headings on hover, footer, etc.     
 
 [Amazon dogs - liked the template page](https://www.aboutamazon.com/news/workplace/how-much-does-amazon-love-dogs-just-ask-one-of-the-8-000-pups-that-work-here)     
 
+[Bathroom & Plumbing Glossary](https://www.qssupplies.co.uk/bathroom_help_center.asp) - I loved the simplicity of the glossary and the classified listing of items with a picture that anyone can understand.    
