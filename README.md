@@ -154,3 +154,5 @@ Some great tools I have come across recently:
 [Amazon dogs - liked the template page](https://www.aboutamazon.com/news/workplace/how-much-does-amazon-love-dogs-just-ask-one-of-the-8-000-pups-that-work-here)     
 
 [Bathroom & Plumbing Glossary](https://www.qssupplies.co.uk/bathroom_help_center.asp) - I loved the simplicity of the glossary and the classified listing of items with a picture that anyone can understand.    
+
+[Professor GEORGE PALLIS personal web page](http://www.cs.ucy.ac.cy/~gpallis/?section=1)    
