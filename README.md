@@ -151,6 +151,8 @@ Some great tools I have come across recently:
 
 [Simplify internship portal](https://simplify.jobs/l/Top-Fall-Internships)    
 
+[IGNCA website](https://ignca.gov.in/) - a trove of information for art lovers.   
+
 [Cotton Bee](https://ctnbee.com/blog/en/) - notice the design elements in the slider, sidebars, highlight headings on hover, footer, etc.     
 
 [Amazon dogs - liked the template page](https://www.aboutamazon.com/news/workplace/how-much-does-amazon-love-dogs-just-ask-one-of-the-8-000-pups-that-work-here)     
