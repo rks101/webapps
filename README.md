@@ -147,9 +147,9 @@ Some great tools I have come across recently:
 
 [We Present - Plastic Free](https://wepresent.wetransfer.com/stories/manifesto-plastic-free) or [how to publish a book](https://wepresent.wetransfer.com/stories/stuff-they-dont-tell-you-how-to-publish-a-book) - an elegant design with pictures and scroll. Zoom in a picture and play the slide show :)     
 
-[Layoffs.fyi](https://layoffs.fyi) - see the airtable in action    
+[Layoffs.fyi](https://layoffs.fyi) - see the airtable in action.    
 
-[Simplify internship portal](https://simplify.jobs/l/Top-Fall-Internships)    
+[Simplify internship portal](https://simplify.jobs/l/Top-Fall-Internships) - a different grid/tiles for internships.     
 
 [IGNCA website](https://ignca.gov.in/) - a trove of information for art lovers.   
 
