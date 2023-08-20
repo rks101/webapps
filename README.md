@@ -99,11 +99,13 @@ Check your website's [HTTP response headers](https://securityheaders.com/), [TLS
 
 [CodePen for HTML/CSS/JavaScript](https://codepen.io/pen/)   
 
+
+
 [DB-Fiddle playground](https://www.db-fiddle.com/)   
 
-[railway.app for DB in the cloud](https://railway.app/)   
+[railway.app for DB in the cloud](https://railway.app/) - now it's paid   
 
-[Online GDB](https://www.onlinegdb.com/)   
+[Online GDB](https://www.onlinegdb.com/) - good for C/C++    
 
 [awesome online IDEs](https://github.com/styfle/awesome-online-ide)   
 
