@@ -107,6 +107,8 @@ Check your website's [HTTP response headers](https://securityheaders.com/), [TLS
 
 [Online GDB](https://www.onlinegdb.com/) - good for C/C++    
 
+[cplayground.com](https://cplayground.com/) - for C/C++, uses clang compiler front-end from LLVm project.   
+
 [awesome online IDEs](https://github.com/styfle/awesome-online-ide)   
 
 
