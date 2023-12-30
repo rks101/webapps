@@ -166,3 +166,5 @@ Some great tools I have come across recently:
 [Bathroom & Plumbing Glossary](https://www.qssupplies.co.uk/bathroom_help_center.asp) - I loved the simplicity of the glossary and the classified listing of items with a picture that anyone can understand.    
 
 [Professor GEORGE PALLIS personal web page](http://www.cs.ucy.ac.cy/~gpallis/?section=1)    
+
+[sketchnote](https://sketchnote.co/) based on [Agency OS](https://www.agencyos.dev/)     
