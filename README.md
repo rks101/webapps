@@ -11,7 +11,8 @@ This repository is a compilation of useful information related to Web applicatio
     * [Troubleshooting](#troubleshooting) 
     * [Security](#security) 
     * [Online Editors and Playgrounds](#online-editors-playgrounds) 
-    * [Tools](#tools) 
+    * [Tools](#tools)
+    * [Progressive Web Apps (PWA)](#Progressive-Web-Apps)
     * [Flavio Copes](#flavio-copes) 
     * [Free Code Camp](#free-code-camp) 
     * [Resources](#resources)
@@ -23,8 +24,10 @@ This repository is a compilation of useful information related to Web applicatio
 
 ----
 
-## HTML 
+## HTML   
+
 [HTML tutorial on W3Schools](https://www.w3schools.com/html/)   
+
 [CodePen](https://codepen.io/) and [JSFiddle](https://jsfiddle.net/) online playground for HTML.   
 
 ----
@@ -44,9 +47,12 @@ This repository is a compilation of useful information related to Web applicatio
 [Codepen](https://codepen.io/pen/) for side-by-side HTML, CSS, and Javascript editor windows to visualize code for web apps.   
 
 
-**JavaScript frameworks**
+**JavaScript frameworks**   
+
 [Next.js v/s React](https://snipcart.com/blog/next-js-vs-react)   
+
 [JavaScript frameworks](https://snipcart.com/blog/javascript-frameworks)   
+
 [Front End Javascript Framework - React, Angular or Vue](https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/)   
 
 ----
@@ -122,6 +128,13 @@ Some great tools I have come across recently:
 
 [Astro](https://astro.build/)   
 [Netlify to deploy](https://www.netlify.com/) after pushing code from [github](https://github.com)   
+
+----
+
+## Progressive Web Apps (PWA)
+
+[Progressive Web Apps examples](https://onilab.com/blog/20-progressive-web-apps-examples)    
+
 
 ----
 
