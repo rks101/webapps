@@ -46,8 +46,10 @@ This repository is a compilation of useful information related to Web applicatio
 
 [Codepen](https://codepen.io/pen/) for side-by-side HTML, CSS, and Javascript editor windows to visualize code for web apps.   
 
+JavaScript-based websites and web apps leverage JavaScript frameworks and some popular technology stacks. JavaScript frameworks do change pretty fast, and there is a new name very often!    
+e.g., Node.js, Angular, Vue.js, Next.js, React, Svelte, etc. Because of these changes, stack shifts MEAN, MEVN, MERN, and others.      
 
-**JavaScript frameworks**    
+### JavaScript frameworks 
 
 [Next.js v/s React](https://snipcart.com/blog/next-js-vs-react)   
 
