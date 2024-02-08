@@ -25,6 +25,7 @@ This repository is a compilation of useful information related to Web applicatio
 
 ## HTML 
 [HTML tutorial on W3Schools](https://www.w3schools.com/html/)   
+
 [CodePen](https://codepen.io/) and [JSFiddle](https://jsfiddle.net/) online playground for HTML.   
 
 ----
@@ -44,7 +45,8 @@ This repository is a compilation of useful information related to Web applicatio
 [Codepen](https://codepen.io/pen/) for side-by-side HTML, CSS, and Javascript editor windows to visualize code for web apps.   
 
 
-**JavaScript frameworks**
+**JavaScript frameworks**    
+
 [Next.js v/s React](https://snipcart.com/blog/next-js-vs-react)   
 [JavaScript frameworks](https://snipcart.com/blog/javascript-frameworks)   
 [Front End Javascript Framework - React, Angular or Vue](https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/)   
@@ -54,6 +56,7 @@ This repository is a compilation of useful information related to Web applicatio
 ## Database
 
 [DB Playground to try some queries](https://www.db-fiddle.com/)   
+
 [Railway.app](https://railway.app/) - simple to start PostgreSQL/MySQL/MongoDB instance in cloud in minutes.    
 
 ----
