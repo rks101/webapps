@@ -132,6 +132,8 @@ Some great tools I have come across recently:
 [Astro](https://astro.build/)   
 [Netlify to deploy](https://www.netlify.com/) after pushing code from [github](https://github.com)   
 
+[What technology is the website built with?](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/website-technology-checker-built-with-wappalyzer-lookup-identify-extension-chrome)     
+
 ----
 
 ## Progressive Web Apps (PWA)
