@@ -20,7 +20,7 @@ This repository is a compilation of useful information related to Web applicatio
 
 ## Know Elements 
 
-[Understand boxes](https://every-layout.dev/rudiments/boxes/) where everything is a box on a web page. To confirm this, open a web page and then try to inspect the elements of the web page.   
+[Understand boxes](https://every-layout.dev/rudiments/boxes/) where everything is a box on a web page. To confirm this, open a web page in a browser and then try to [inspect the elements](https://blog.hubspot.com/website/how-to-inspect) of the web page. Here is another link to [inspect the elements](https://www.elegantthemes.com/blog/wordpress/browsers-inspect-element-tool) for understanding CSS details or using device emulation to visualize content on different devices.     
 
 ----
 
