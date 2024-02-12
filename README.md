@@ -38,6 +38,8 @@ This repository is a compilation of useful information related to Web applicatio
 
 [Sample product/tool page](https://stupendous-lollipop-54242c.netlify.app/) uses HTML, Tailwind, Astro, Netlify-build, and GitHub repo.    
 
+[CSS Specifications](https://www.w3.org/Style/CSS/specs.en.html)    
+
 ----
 
 ## JavaScript
