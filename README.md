@@ -127,12 +127,17 @@ Check your website's [HTTP response headers](https://securityheaders.com/), [TLS
 
 ## Tools 
 
-For web developers, it is important to learn multiple tools like the Swiss army knife.   
+Learning multiple tools (like the Swiss Army Knife) is essential for web developers. They can improve productivity during the development.    
 
 Some great tools I have come across recently:   
 
-[Astro](https://astro.build/)   
-[Netlify to deploy](https://www.netlify.com/) after pushing code from [github](https://github.com)   
+[Astro](https://astro.build/)    
+
+[Open Source Form Builder Framework for Vue JS](https://vueform.com/)     
+
+[VS Code for Code Editing](https://code.visualstudio.com/)   
+
+[Netlify to deploy](https://www.netlify.com/) after pushing code from [github](https://github.com)    
 
 [What technology is the website built with?](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/website-technology-checker-built-with-wappalyzer-lookup-identify-extension-chrome)     
 
@@ -185,3 +190,6 @@ Some great tools I have come across recently:
 [Bathroom & Plumbing Glossary](https://www.qssupplies.co.uk/bathroom_help_center.asp) - I loved the simplicity of the glossary and the classified listing of items with a picture that anyone can understand.    
 
 [Professor GEORGE PALLIS personal web page](http://www.cs.ucy.ac.cy/~gpallis/?section=1)    
+
+[Jai Hind Project to celebrate Heros](https://jaihindproject.in/)    
+
