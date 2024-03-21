@@ -171,6 +171,8 @@ Some great tools I have come across recently:
 
 [Some links on Low code, No code](https://github.com/zenitysec/awesome-low-code)   
 
+[Examples of login forms](https://designmodo.com/login-forms-websites-apps/)    
+
 ----
 
 ## Cool Websites and Apps   
