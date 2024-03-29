@@ -16,7 +16,8 @@ This repository is a compilation of useful information related to Web applicatio
     * [Flavio Copes](#flavio-copes) 
     * [Free Code Camp](#free-code-camp) 
     * [Resources](#resources)
-    * [Cool websites and apps](#cool-websites-and-apps) 
+    * [Cool websites and apps](#cool-websites-and-apps)
+    * [Lessons from Online Payment Gateways](#online-payment-gateways) 
 
 ## Know Elements 
 
@@ -195,3 +196,10 @@ Some great tools I have come across recently:
 
 [Jai Hind Project to celebrate Heros](https://jaihindproject.in/)    
 
+----
+
+## Lessons from Online Payment Gateways   
+
+
+[Integrating bank payment gateway](https://subbuswaroop.com/integrate-icici-eazypay-payment-gateway-using-php/) and [PG kit page 7--13](https://bimtech.ac.in/Uploads/files/341Docverify1EazyPay_and_PG_Merchant_Integration_v4.3.pdf)    
+[Stripe - integrate PG into website])https://stripe.com/in/resources/more/how-to-integrate-a-payment-gateway-into-a-website)    
