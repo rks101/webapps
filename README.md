@@ -152,6 +152,18 @@ Some great tools I have come across recently:
 
 ----
 
+## Virtual Hosts   
+
+Web application servers can host multiple websites with different domain or sub-domain names. For this, they use virtual hosts. The web server checks the hostname requested from the HTTP headers and matches that against its virtual hosts. [Virtual hosts are just text-based configuration files](https://httpd.apache.org/docs/2.4/vhosts/examples.html). If it finds a match, the correct website will be provided. If no match is found, the default website will be provided instead.    
+
+Note: Creating virtual host configurations on a web server does not create DNS entries for those host names. You must have or create the Address/CNAME records in DNS server resolving to the required IP address, or nobody else will be able to see your website.    
+
+Virtual Hosts can have their root directory mapped to different locations on the server hard drive. For example, eg.com is mapped to /var/www/eg, egdev.com is mapped to /var/www/egdev and egsec.com is mapped to /var/www/egsec directory (for [Apache](https://httpd.apache.org/docs/2.4/vhosts/examples.html)/Nginx server). Several combinations are possible with IP, ports, name-based hosts, and URL redirects.     
+
+There is no limit to the number of websites you can host on a web server.    
+
+----
+
 ## Flavio Copes 
 
 [Flavio Copes' website and online books](https://flaviocopes.com/)   
