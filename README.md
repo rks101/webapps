@@ -129,7 +129,9 @@ Content-Length: 1256
 ```
 
 
-**Robots.txt** file is a document that tells search engines which pages they are and are not allowed to show on their search engine results or ban specific search engines from crawling the website altogether. Reference: http://www.robotstxt.org/robotstxt.html     
+Robots Exclusion Protocol or **Robots.txt** file is a standard that tells crawlers or search engines which pages they are and are not allowed to show on their search engine results or disallow specific search engines from crawling the website altogether. Reference: http://www.robotstxt.org/robotstxt.html     
+
+A robots.txt file consists of one or more rules on each line. Each rule blocks or allows access for all or a specific crawler to a specified file path on the domain or subdomain where the robots.txt file is hosted. Note that _unless you specify otherwise in your robots.txt file, all files are implicitly allowed for crawling_.
 
 ```
 # robots.txt
@@ -145,6 +147,9 @@ Content-Length: 1256
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
+
+User-agent: Bing          <== disallow crawling by Bing
+Disallow: /
 
 User-agent: *
 Crawl-delay: 10
