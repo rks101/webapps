@@ -100,7 +100,72 @@ Here is an online book on [API-first world](https://api-first-world.com/) to emp
 
 Pay attention to security aspects while you develop portals. Security of web applications should not be an afterthought or left to other teams. Utilize free tools and websites for OSINT or Web Intelligence (WebINT). These steps could improve the ranking of your websites/portals.     
 
-Check your website's [HTTP response headers](https://securityheaders.com/), [TLS certificates (X.509)](https://censys.io/cert-hygiene-and-website-availability/), (vulnerable) libraries used, consider VAPT, etc.    
+Check your website's [HTTP response headers](https://securityheaders.com/), [TLS certificates (X.509)](https://censys.io/cert-hygiene-and-website-availability/), (vulnerable or outdated) libraries used, consider VAPT, etc.    
+
+**Robots.txt** file is a document that tells search engines which pages they are and are not allowed to show on their search engine results or ban specific search engines from crawling the website altogether. Reference: http://www.robotstxt.org/robotstxt.html     
+
+```
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts          <==
+# of your site by web crawlers and spiders run by sites like Yahoo!           <==
+# and Google. By telling these "robots" where not to go on your site,         <==
+# you save bandwidth and server resources.                                    <==
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Crawl-delay: 10
+# Directories              <== 
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+# Files                    <==
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+# Paths (clean URLs)        <== 
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+Disallow: /node/
+Disallow: /node/*
+# Paths (no clean URLs)      <== 
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+
+SITEMAP: https://www.mysite.ac.in/sitemap.xml
+```
 
 ----
 
