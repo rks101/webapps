@@ -100,7 +100,34 @@ Here is an online book on [API-first world](https://api-first-world.com/) to emp
 
 Pay attention to security aspects while you develop portals. Security of web applications should not be an afterthought or left to other teams. Utilize free tools and websites for OSINT or Web Intelligence (WebINT). These steps could improve the ranking of your websites/portals.     
 
-Check your website's [HTTP response headers](https://securityheaders.com/), [TLS certificates (X.509)](https://censys.io/cert-hygiene-and-website-availability/), (vulnerable or outdated) libraries used, consider VAPT, etc.    
+Check your website's [**HTTP response headers**](https://securityheaders.com/), [**TLS certificates** (X.509)](https://censys.io/cert-hygiene-and-website-availability/), (**vulnerable or outdated**) **libraries used**, consider **VAPT**, etc.    
+
+```
+$ curl -I tryhackme.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Apr 2024 16:21:34 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 01 Apr 2024 17:21:34 GMT
+Location: https://tryhackme.com/
+Server: cloudflare
+CF-RAY: 86d9e9bbcc4b5514-DEL
+
+$ curl -I example.com 
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Age: 22884
+Cache-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 01 Apr 2024 16:21:59 GMT
+Etag: "3147526947"
+Expires: Mon, 08 Apr 2024 16:21:59 GMT
+Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+Server: ECS (nyd/D132)
+X-Cache: HIT
+Content-Length: 1256
+```
+
 
 **Robots.txt** file is a document that tells search engines which pages they are and are not allowed to show on their search engine results or ban specific search engines from crawling the website altogether. Reference: http://www.robotstxt.org/robotstxt.html     
 
