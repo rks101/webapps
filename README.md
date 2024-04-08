@@ -200,6 +200,8 @@ Disallow: /?q=user/logout/
 SITEMAP: https://www.mysite.ac.in/sitemap.xml
 ```
 
+[OWASP favicon database](https://wiki.owasp.org/index.php/OWASP_favicon_database) can be used to enumerate fingerprints (MD5 hashes) of known favicon files (favicon. ico) that are used on the websites. e.g. MD5 hash fa54dbf2f61bd2e0188e47f5f578f736 corresponds to WordPress, and MD5 hash d037ef2f629a22ddadcf438e6be7a325 for PHPMyAdmin      
+
 ----
 
 ## Online Editors Playgrounds 
