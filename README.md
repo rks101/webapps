@@ -81,6 +81,7 @@ Here is an online book on [API-first world](https://api-first-world.com/) to emp
 
 [OpenAPI specification for RESTful APIs](https://swagger.io/resources/open-api/)    
 
+[SOAP v/s REST](https://www.upwork.com/resources/soap-vs-rest)     
 
 ----
 
