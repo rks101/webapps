@@ -245,6 +245,8 @@ Some great tools I have come across recently:
 
 [What technology is the website built with?](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/website-technology-checker-built-with-wappalyzer-lookup-identify-extension-chrome)     
 
+[App Dev Tools](https://appdevtools.com/)    
+
 ----
 
 ## Progressive Web Apps (PWA)
