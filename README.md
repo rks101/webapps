@@ -309,6 +309,8 @@ There is no limit to the number of websites you can host on a web server.
 
 [Bathroom & Plumbing Glossary](https://www.qssupplies.co.uk/bathroom_help_center.asp) - I loved the simplicity of the glossary and the classified listing of items with a picture that anyone can understand.    
 
+[McMaster Carr website](https://www.mcmaster.com/) and a video on [why McMaster Carr is so fast](https://www.youtube.com/watch?v=-Ln-8QM8KhQ) - I loved the simplicity of design and the listing of items.      
+
 [Professor GEORGE PALLIS personal web page](http://www.cs.ucy.ac.cy/~gpallis/?section=1)    
 
 [Jai Hind Project to celebrate Heros](https://jaihindproject.in/)    
