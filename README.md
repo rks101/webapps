@@ -203,7 +203,7 @@ SITEMAP: https://www.mysite.ac.in/sitemap.xml
 [OWASP favicon database](https://owasp.org/www-community/favicons_database) can be used to enumerate fingerprints (MD5 hashes) of known favicon files (favicon. ico) that are used on the websites. e.g. MD5 hash fa54dbf2f61bd2e0188e47f5f578f736 corresponds to WordPress, and MD5 hash d037ef2f629a22ddadcf438e6be7a325 for PHPMyAdmin. Thus, favicon files can help you find software on the website.     
 
 
-[ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - Open Source Web Application Firewall (WAF).     
+[ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - Open Source Web Application Firewall (WAF) engine to filter HTTP requests and responses based on rules.     
 From the project page: Libmodsecurity is one component of the ModSecurity v3 project. The library codebase is an interface to ModSecurity Connectors, which take in web traffic and apply traditional ModSecurity processing. In general, it provides the capability to load/interpret rules written in the ModSecurity SecRules format and apply them to HTTP content provided by your application via Connectors.    
 
 ----
