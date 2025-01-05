@@ -95,6 +95,8 @@ Here is an online book on [API-first world](https://api-first-world.com/) to emp
 
 [Browser permissions](https://permission.site/) to simulate how the browser asks certain permissions courtesy to [Felt](https://adrifelt.github.io/demos/).   
 
+[Detecting device type in a web application](https://stackoverflow.com/questions/8515161/detecting-device-type-in-a-web-application) or [browser](https://medium.com/@aleksej.gudkov/how-to-determine-device-type-using-the-browser-719abc55873c)     
+
 ----
 
 ## Security  
