@@ -297,6 +297,8 @@ There is no limit to the number of websites you can host on a web server.
 
 [Examples of login forms](https://designmodo.com/login-forms-websites-apps/)    
 
+[WCAG - Web Content Accessibility Guidelines](https://www.wcag.com/resource/what-is-wcag/) and [WCAG-2.1](https://www.w3.org/TR/WCAG21/) guidelines are technical standards that help make the digital world accessible to people with disabilities.   
+
 ----
 
 ## Cool Websites and Apps   
@@ -320,6 +322,8 @@ There is no limit to the number of websites you can host on a web server.
 [Professor GEORGE PALLIS personal web page](http://www.cs.ucy.ac.cy/~gpallis/?section=1)    
 
 [Jai Hind Project to celebrate Heros](https://jaihindproject.in/)    
+
+[An open LTI app collection](https://www.eduappcenter.com/)    
 
 ----
 
