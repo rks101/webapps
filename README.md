@@ -325,6 +325,10 @@ There is no limit to the number of websites you can host on a web server.
 
 [An open LTI app collection](https://www.eduappcenter.com/)    
 
+[Notice Board can reduce internal emails](https://channeli.in/noticeboard/?page=1)     
+
+[A little better way to show links](https://channeli.in/links), [even better with tiles having logo and text](https://www.iitr.ac.in/support/)     
+
 ----
 
 ## Lessons from Online Payment Gateways   
