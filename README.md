@@ -329,6 +329,10 @@ There is no limit to the number of websites you can host on a web server.
 
 [A little better way to show links](https://channeli.in/links), [even better with tiles having logo and text](https://www.iitr.ac.in/support/)     
 
+[India Stack (No Greed No Glory)](https://indiastack.org/)     
+
+[What's in a Color](https://grandworks.co/introduction-to-color-theory/)         
+
 ----
 
 ## Lessons from Online Payment Gateways   
