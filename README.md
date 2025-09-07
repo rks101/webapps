@@ -303,6 +303,9 @@ There is no limit to the number of websites you can host on a web server.
 
 ## Cool Websites and Apps   
 
+[Online whiteboard by excalidraw](https://excalidraw.com/) - open anywhere, save data locally in the browser, with nice and handy drawing tools     
+
+
 [We Present - Plastic Free](https://wepresent.wetransfer.com/stories/manifesto-plastic-free) or [how to publish a book](https://wepresent.wetransfer.com/stories/stuff-they-dont-tell-you-how-to-publish-a-book) - an elegant design with pictures and scroll. Zoom in a picture and play the slide show :)     
 
 [Layoffs.fyi](https://layoffs.fyi) - see the airtable in action.    
