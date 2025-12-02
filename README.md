@@ -1,5 +1,5 @@
 # webapps
-This repository is a compilation of useful information related to Web applications or Web development.   
+This repository compiles useful information related to Web applications and web development.   
 
 * [webapps](#webapps)
     * [Know Elements](#know-elements) 
@@ -337,6 +337,8 @@ There is no limit to the number of websites you can host on a web server.
 [What's in a Color](https://grandworks.co/introduction-to-color-theory/)         
 
 [World Time Buddy](https://www.worldtimebuddy.com/) - compare time zones and get a link to selected time zones to schedule meetings/calls.      
+
+[Stumbled on Wordnik - so much on offer](https://www.wordnik.com/words/sear)    
 
 ----
 
