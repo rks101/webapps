@@ -7,7 +7,8 @@ This repository compiles useful information related to Web applications and web 
     * [CSS](#css) 
     * [JavaScript](#javascript) 
     * [Database](#database) 
-    * [APIs](#apis)  
+    * [APIs](#apis)
+    * [Python](#python) 
     * [Troubleshooting](#troubleshooting) 
     * [Security](#security) 
     * [Online Editors and Playgrounds](#online-editors-playgrounds) 
@@ -82,6 +83,12 @@ Here is an online book on [API-first world](https://api-first-world.com/) to emp
 [OpenAPI specification for RESTful APIs](https://swagger.io/resources/open-api/)    
 
 [SOAP v/s REST](https://www.upwork.com/resources/soap-vs-rest)     
+
+----
+
+## Python 
+
+[Python online](https://www.online-python.com/)    
 
 ----
 
