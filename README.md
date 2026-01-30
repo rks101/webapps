@@ -86,6 +86,18 @@ Here is an online book on [API-first world](https://api-first-world.com/) to emp
 
 ----
 
+## Data Formats 
+
+Beyond XML, XSLT, and WSDL, we can use JSON schema for data interchange formats.    
+
+Json: [Json parser](https://jsonformatter.org/json-parser)    
+
+Json v/s Jsonl: For JSON Lines each line is a valid JSON object.    
+
+[json vs jsonl](https://jsonltools.com/jsonl-vs-json)     
+
+----
+
 ## Python 
 
 [Python online](https://www.online-python.com/)    
