@@ -353,11 +353,13 @@ There is no limit to the number of websites you can host on a web server.
 
 [India Stack (No Greed No Glory)](https://indiastack.org/)     
 
-[What's in a Color](https://grandworks.co/introduction-to-color-theory/)         
+[What's in a Color](https://grandworks.co/introduction-to-color-theory/)      
 
-[World Time Buddy](https://www.worldtimebuddy.com/) - compare time zones and get a link to selected time zones to schedule meetings/calls.      
+[World Time Buddy](https://www.worldtimebuddy.com/) - compare time zones and get a link to selected time zones to schedule meetings/calls.     
 
 [Stumbled on Wordnik - so much on offer](https://www.wordnik.com/words/sear)    
+
+[Browse websites using a keyboard only](https://www.accessibility-developer-guide.com/knowledge/keyboard-only/browsing-websites/), [reading websites](https://www.accessibility-developer-guide.com/knowledge/screen-readers/desktop/reading-websites/)     
 
 ----
 
