@@ -361,6 +361,12 @@ There is no limit to the number of websites you can host on a web server.
 
 [Browse websites using a keyboard only](https://www.accessibility-developer-guide.com/knowledge/keyboard-only/browsing-websites/), [reading websites](https://www.accessibility-developer-guide.com/knowledge/screen-readers/desktop/reading-websites/)     
 
+[Sarvam.AI - has an elegant site](https://www.sarvam.ai/blogs/sarvam-30b-105b)   
+
+[DPG on GitBook](https://docs.cdpi.dev/the-dpi-wiki/dpg-and-dpi). It has a paid subscription model.   
+
+[Two different pages to show specs - which is more informative and elegant](https://rfsafe.com/phones/apple-iphone-17/) or [Apple](https://www.apple.com/iphone-17/specs/) - both miss to report the Impedance value for Audio!   
+
 ----
 
 ## Lessons from Online Payment Gateways   
