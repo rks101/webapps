@@ -365,7 +365,7 @@ There is no limit to the number of websites you can host on a web server.
 
 [DPG on GitBook](https://docs.cdpi.dev/the-dpi-wiki/dpg-and-dpi). It has a paid subscription model.   
 
-[Two different pages to show specs - which is more informative and elegant](https://rfsafe.com/phones/apple-iphone-17/) or [Apple](https://www.apple.com/iphone-17/specs/) - both miss to report the Impedance value for Audio!   
+Two different pages to show technical specs - which is more [informative](https://rfsafe.com/phones/apple-iphone-17/) or [elegant](https://www.apple.com/iphone-17/specs/) - both miss to report the Impedance value for Audio!   
 
 ----
 
