@@ -227,6 +227,10 @@ SITEMAP: https://www.mysite.ac.in/sitemap.xml
 [ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - Open Source Web Application Firewall (WAF) engine to filter HTTP requests and responses based on rules.     
 From the project page: Libmodsecurity is one component of the ModSecurity v3 project. The library codebase is an interface to ModSecurity Connectors, which take in web traffic and apply traditional ModSecurity processing. In general, it provides the capability to load/interpret rules written in the ModSecurity SecRules format and apply them to HTTP content provided by your application via Connectors.    
 
+[ModEvasive]()     
+
+**SOC 2 Type 2 certification**: SOC 2 Type 2 is an attestation that evaluates how a service organization manages customer data based on five trust service principles: security, availability, processing integrity, confidentiality, and privacy. It demonstrates the effectiveness of an organization's internal controls over a period of typically 6 to 12 months, ensuring they meet established security standards.    
+
 ----
 
 ## Online Editors Playgrounds 
