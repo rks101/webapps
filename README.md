@@ -371,6 +371,9 @@ There is no limit to the number of websites you can host on a web server.
 
 Two different pages to show technical specs - which is more [informative](https://rfsafe.com/phones/apple-iphone-17/) or [elegant](https://www.apple.com/iphone-17/specs/) - both miss to report the Impedance value for Audio!   
 
+[Mandala art designs by skyryedesign](https://skyryedesign.com/art/drawing/objects/mandala-art-designs/) 
+[Mandala coloring pages by coloringbunny](https://coloringbunny.com/adult-mandala-coloring-pages/) 
+
 ----
 
 ## Lessons from Online Payment Gateways   
