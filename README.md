@@ -374,6 +374,9 @@ Two different pages to show technical specs - which is more [informative](https:
 [Mandala art designs by skyryedesign](https://skyryedesign.com/art/drawing/objects/mandala-art-designs/) 
 [Mandala coloring pages by coloringbunny](https://coloringbunny.com/adult-mandala-coloring-pages/) 
 
+[Marble Curriculum](https://withmarble.com/curriculum/) and see One child. One connected map. [withmarble.com](https://withmarble.com/) - graph visualization is great to watch.    
+
+
 ----
 
 ## Lessons from Online Payment Gateways   
